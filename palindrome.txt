@@ -1,0 +1,33 @@
+true:	A butt tuba
+false:	A bad penny always turns up.
+false:	A fool and his money are soon parted.
+true:	A man, a plan, a canal—Panama!
+true:	A man, a plan, a canoe, pasta, heros, rajahs, a coloratura, maps, snipe, percale, macaroni, a gag, a banana bag, a tan, a tag, a banana bag again (or a camel), a crepe, pins, Spam, a rut, a Rolo, cash, a jar, sore hats, a peon, a canal–Panama!
+true:	A Toyota's a Toyota
+true:	Able was I ere I saw Elba.
+true:	Ah, Satan sees Natasha
+true:	deified
+true:	Dennis sinned.
+true:	Dennis and Edna sinned.
+true:	Dennis, Nell, Edna, Leon, Nedra, Anita, Rolf, Nora, Alice, Carol, Leo, Jane, Reed, Dena, Dale, Basil, Rae, Penny, Lana, Dave, Denny, Lena, Ida, Bernadette, Ben, Ray, Lila, Nina, Jo, Ira, Mara, Sara, Mario, Jan, Ina, Lily, Arne, Bette, Dan, Reba, Diane, Lynn, Ed, Eva, Dana, Lynne, Pearl, Isabel, Ada, Ned, Dee, Rena, Joel, Lora, Cecil, Aaron, Flora, Tina, Arden, Noel, and Ellen sinned.
+false:	Fools rush in where angels fear to tread.
+false:	Gather ye rosebuds while ye may.
+true:	Go hang a salami, I'm a lasagna hog.
+true:	level
+false:	Haste makes waste.
+false:	If the shoe fits, wear it.
+false:	If wishes were fishes then no man would starve.
+true:	Madam, I’m Adam.
+true:	No "x" in "Nixon"
+true:	No devil lived on
+false:	Once bitten, twice shy.
+true:	Race fast, safe car
+true:	racecar
+true:	radar
+false:	Those who cannot remember the past are condemned to repeat it.
+true:	Was it a bar or a bat I saw?
+true:	Was it a car or a cat I saw?
+true:	Was it a cat I saw?
+false:	When in Rome, do as the Romans do.
+true:	Yo, banana boy!
+false:	
